@@ -21,3 +21,5 @@ security:
     client:
       client-id: test
       client-secret: 123456789abcdefghijklmnopqrstuvwxyz
+
+mssg: Hello swarnendu, It's Development version
