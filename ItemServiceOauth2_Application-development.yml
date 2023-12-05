@@ -21,3 +21,5 @@ security:
     client:
       client-id: mobile
       client-secret: 123456789abcdefghijklmnopqrstuvwxyz
+
+msg : Hello world - this is from config server – Development environment info.
